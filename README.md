@@ -1,3 +1,2 @@
-# ConvocatoriasDocumentacion
-Documentación del proyecto Convocatorias
+# Documentacion
 ADRs: https://github.com/oarojasg/ConvocatoriasDocumentacion/wiki
